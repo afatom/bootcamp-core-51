@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "adtdefs.h": "c",
+        "sort.h": "c"
+    }
+}
