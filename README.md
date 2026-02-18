@@ -42,7 +42,3 @@ The final section of the workshop included several in-depth projects:
 
 ## 🏅 Certification
 This work was completed as part of the Experis KickStart program.
-
----
-
-I've mapped the provided topics into your existing directory structure. Do you want to add specific **links** within the README to point to the actual files in those directories?
